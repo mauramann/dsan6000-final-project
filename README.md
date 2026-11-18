@@ -1,2 +1,11 @@
-# dsan6000-final-project
-DSAN 6000 Final Project
+# DSAN 6000 Final Project
+
+---
+
+## Authors
+
+---
+- Ellie Byrd
+- Katie DiPaolo
+- Madison Williams
+- Maura Mann
