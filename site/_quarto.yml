@@ -1,0 +1,17 @@
+project:
+  type: manuscript
+
+manuscript:
+  article: index.qmd
+  code-links: repo
+
+format:
+  html:
+    theme: lux
+  pdf: default
+
+execute:
+  freeze: true
+
+
+

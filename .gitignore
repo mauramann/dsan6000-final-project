@@ -169,9 +169,6 @@ conda-meta/
 # Rope project settings
 .ropeproject
 
-# mkdocs/Zensical documentation
-/site
-
 # mypy
 .mypy_cache/
 .dmypy.json

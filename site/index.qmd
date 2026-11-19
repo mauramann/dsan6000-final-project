@@ -1,0 +1,20 @@
+---
+title: DSAN 6000 Big Data and Cloud Computing Project
+authors:
+  - name: Ellie Byrd
+    roles: writing
+    corresponding: true
+  - name: Katie DiPaolo
+    roles: writing
+    corresponding: true
+  - name: Madison Williams
+    roles: writing
+    corresponding: true
+  - name: Maura Mann
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+---
+
+## Section
+This is a simple placeholder for the manuscript's main document [@knuth84].
