@@ -5,6 +5,7 @@ description = "DSAN 6000 Final Project"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "boto3>=1.44.9",
     "duckdb>=1.5.5",
     "ipykernel>=7.3.0",
     "matplotlib>=3.11.2",
@@ -12,6 +13,7 @@ dependencies = [
     "pandas>=3.0.6",
     "psutil>=7.2.2",
     "pyarrow>=25.0.1",
+    "scikit-learn>=1.9.1",
     "seaborn>=0.13.2",
 ]
 
